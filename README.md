@@ -79,17 +79,6 @@ Additionally, configure the database by running the following commands:
   rspec
 ```
 
-### Creating user:
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `fullname` | `string` | **Required** |
-| `email` | `string` | **Required** |
-| `avatar_image` | `string` | **Required** |
-| `user_type` | `integer` | **Required** |
-| `password` | `string` | **Required** |
-| `password_confirmation` | `string` | **Required** |
-
 ## Contributions
 
 Contributions are always welcome!
@@ -99,8 +88,6 @@ Contributions are always welcome!
 For support, email contatos_leo@hotmail.com.
 
 ## Tech Stack
-
-**Client:** Stimulus, Bootstrap. 
 
 **Server:** Ruby, Rspec, Docker.
 
